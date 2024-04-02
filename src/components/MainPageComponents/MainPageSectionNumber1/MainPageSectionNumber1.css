@@ -1,0 +1,73 @@
+#mainPageNumber1 {
+	color: white;
+}
+
+.mainPageNumber1LeftBlcok {
+	background: #353e48;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 100%;
+	padding-left: -12pc;
+	padding: 70px 0;
+	margin-top: 1.8pc;
+}
+
+.mainPageNumber1LeftBlcokText p {
+	width: 320px;
+}
+
+.mainPageNumber1 {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.smotretvideoclass {
+	flex-wrap: wrap;
+	padding-bottom: 0px;
+}
+.mainPageNumber1LeftBlcokText h1 {
+	font-size: 30px;
+	font-weight: 800;
+}
+.mainPageNumber1LeftBlcokText p {
+	margin: 20px 0;
+}
+.mainPageNumber1LeftBlcokText button {
+	background: #888888;
+	padding: 8px;
+	width: 115px;
+}
+.smotretvideoclasst {
+	width: 120px;
+}
+.textsmotret {
+	background: #30363d;
+	position: relative;
+	bottom: 11px;
+}
+.textsmotret button {
+	position: relative;
+	bottom: 3pc;
+	background: #334253;
+	left: 20px;
+}
+
+.mainPageNumber1-smotre {
+	position: relative;
+}
+.textsmotret h3 {
+	position: relative;
+	bottom: 25px;
+	font-size: 13.5px;
+	left: 1pc;
+}
+.mainPageNumber1-smotret {
+	margin: 0 1pc;
+}
+.mainPageNumber1-smotret-2 {
+	margin: 0 1pc;
+}
+.smotretvideoclass {
+	width: 370px;
+}
